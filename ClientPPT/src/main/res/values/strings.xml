@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComunicacionesII</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="conectar">Conectar</string>
+    <string name="direccion_de_servidor">Direccion de Servidor</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="conectando">Esperando Compañero</string>
+</resources>

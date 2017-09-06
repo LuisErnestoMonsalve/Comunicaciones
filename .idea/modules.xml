@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComunicacionesII.iml" filepath="$PROJECT_DIR$/ComunicacionesII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serverppt/Serverppt.iml" filepath="$PROJECT_DIR$/Serverppt/Serverppt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidIChatClient/androidIChatClient.iml" filepath="$PROJECT_DIR$/androidIChatClient/androidIChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidIChatServer/androidIChatServer.iml" filepath="$PROJECT_DIR$/androidIChatServer/androidIChatServer.iml" />
+    </modules>
+  </component>
+</project>

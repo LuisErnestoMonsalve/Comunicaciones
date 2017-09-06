@@ -1,1 +1,1 @@
-include ':Serverppt', ':androidIChatClient', ':androidIChatServer', ':Client'
+include ':ServerPPT', ':ClientPPT'
